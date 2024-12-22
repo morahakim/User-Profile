@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "9AF75616-6D10-4101-B318-057E5E5A2C3A",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:UserProfile.xcodeproj",
+        "identifier" : "374F5B1D2D185F0D006A3FBE",
+        "name" : "UserProfileTests"
+      }
+    }
+  ],
+  "version" : 1
+}
