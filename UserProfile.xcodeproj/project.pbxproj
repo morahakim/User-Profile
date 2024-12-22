@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		374F5AD12D17918A006A3FBE /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 374F5AD02D17918A006A3FBE /* Alamofire */; };
+		374F5B972D18748F006A3FBE /* demo.MP4 in Resources */ = {isa = PBXBuildFile; fileRef = 374F5B962D18748F006A3FBE /* demo.MP4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -23,6 +24,7 @@
 /* Begin PBXFileReference section */
 		374F5A962D1788D1006A3FBE /* UserProfile.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UserProfile.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		374F5B462D186283006A3FBE /* UserProfileTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UserProfileTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		374F5B962D18748F006A3FBE /* demo.MP4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = demo.MP4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -76,6 +78,7 @@
 				374F5A982D1788D1006A3FBE /* UserProfile */,
 				374F5B472D186283006A3FBE /* UserProfileTests */,
 				374F5A972D1788D1006A3FBE /* Products */,
+				374F5B962D18748F006A3FBE /* demo.MP4 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -184,6 +187,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				374F5B972D18748F006A3FBE /* demo.MP4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
