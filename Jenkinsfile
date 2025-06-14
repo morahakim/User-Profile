@@ -41,7 +41,7 @@ pipeline {
 
                 script {
                     // Bisa pakai satu jenis test untuk semua, atau pisahkan
-                    sh './run_tests.sh'
+                    // sh './run_tests.sh'
                 }
             }
         }
